@@ -1,4 +1,4 @@
-# Is Thirteen?
+# Treze
 
 A reimplementation of [`is-thirteen`] in Zig.
 
